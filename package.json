@@ -5,8 +5,8 @@
   "main": "server.js",
   "scripts": {
     "test": "jest --watchAll",
-    "server":"nodemon index.js",
-    "start":"node index.js"
+    "server": "nodemon index.js",
+    "start": "node index.js"
   },
   "jest": {
     "testEnvironment": "node"
